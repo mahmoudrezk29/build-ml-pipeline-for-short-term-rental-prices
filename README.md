@@ -7,6 +7,13 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 ## The wandb link is: 
 - https://wandb.ai/mrezk/nyc_airbnb?nw=nwusermrezk
 
+## The github link is: 
+- https://github.com/mahmoudrezk29/build-ml-pipeline-for-short-term-rental-prices
+
+
+kindly note the versions are saved as v1.0.1   -- the v is mandatory to run the mlflow 
+
+
 
 
 
